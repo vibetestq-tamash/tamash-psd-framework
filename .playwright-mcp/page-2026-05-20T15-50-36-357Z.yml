@@ -1,0 +1,137 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - img "company logo" [ref=e5]
+    - paragraph [ref=e7]: 2 Days
+    - paragraph [ref=e8]: left to subscribe for free hosting
+    - paragraph [ref=e10] [cursor=pointer]: click here
+  - generic [ref=e11]:
+    - generic:
+      - complementary [ref=e12]:
+        - navigation "Sidepanel" [ref=e13]:
+          - generic [ref=e14]:
+            - link "client brand banner" [ref=e15] [cursor=pointer]:
+              - /url: https://www.orangehrm.com/
+              - img "client brand banner" [ref=e17]
+            - text: 
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic [ref=e20]:
+                - textbox "Search" [ref=e23]
+                - button "" [ref=e24] [cursor=pointer]:
+                  - generic [ref=e25]: 
+              - separator [ref=e26]
+            - list [ref=e27]:
+              - listitem [ref=e28]:
+                - link "Admin" [ref=e29] [cursor=pointer]:
+                  - /url: /admin/viewAdminModule
+                  - generic [ref=e32]: Admin
+              - listitem [ref=e33]:
+                - link "PIM" [ref=e34] [cursor=pointer]:
+                  - /url: /pim/viewPimModule
+                  - generic [ref=e48]: PIM
+              - listitem [ref=e49]:
+                - link "Leave" [ref=e50] [cursor=pointer]:
+                  - /url: /leave/viewLeaveModule
+                  - generic [ref=e53]: Leave
+              - listitem [ref=e54]:
+                - link "Time" [ref=e55] [cursor=pointer]:
+                  - /url: /time/viewTimeModule
+                  - generic [ref=e61]: Time
+              - listitem [ref=e62]:
+                - link "Recruitment" [ref=e63] [cursor=pointer]:
+                  - /url: /recruitment/viewRecruitmentModule
+                  - generic [ref=e69]: Recruitment
+              - listitem [ref=e70]:
+                - link "My Info" [ref=e71] [cursor=pointer]:
+                  - /url: /pim/viewMyDetails
+                  - generic [ref=e77]: My Info
+              - listitem [ref=e78]:
+                - link "Performance" [ref=e79] [cursor=pointer]:
+                  - /url: /performance/viewPerformanceModule
+                  - generic [ref=e87]: Performance
+              - listitem [ref=e88]:
+                - link "Dashboard" [ref=e89] [cursor=pointer]:
+                  - /url: /dashboard/index
+                  - generic [ref=e92]: Dashboard
+              - listitem [ref=e93]:
+                - link "Directory" [ref=e94] [cursor=pointer]:
+                  - /url: /directory/viewDirectory
+                  - generic [ref=e97]: Directory
+              - listitem [ref=e98]:
+                - link "Maintenance" [ref=e99] [cursor=pointer]:
+                  - /url: /maintenance/viewMaintenanceModule
+                  - generic [ref=e103]: Maintenance
+              - listitem [ref=e104]:
+                - link "Claim" [ref=e105] [cursor=pointer]:
+                  - /url: /claim/viewClaimModule
+                  - img [ref=e108]
+                  - generic [ref=e112]: Claim
+              - listitem [ref=e113]:
+                - link "Buzz" [ref=e114] [cursor=pointer]:
+                  - /url: /buzz/viewBuzz
+                  - generic [ref=e117]: Buzz
+      - banner [ref=e118]:
+        - generic [ref=e119]:
+          - generic [ref=e120]:
+            - text: 
+            - heading "Dashboard" [level=6] [ref=e122]
+          - link "Upgrade" [ref=e124]:
+            - /url: https://orangehrm.com/open-source/upgrade-to-advanced
+            - button "Upgrade" [ref=e125] [cursor=pointer]: Upgrade
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - generic [ref=e133] [cursor=pointer]:
+                - img "profile picture" [ref=e134]
+                - paragraph [ref=e135]: test admin
+                - generic [ref=e136]: 
+        - navigation "Topbar Menu" [ref=e138]:
+          - list [ref=e139]:
+            - button "" [ref=e141] [cursor=pointer]:
+              - generic [ref=e142]: 
+    - generic [ref=e143]:
+      - generic [ref=e145]:
+        - generic [ref=e147]:
+          - generic [ref=e149]:
+            - generic [ref=e150]: 
+            - paragraph [ref=e151]: Time at Work
+          - separator [ref=e152]
+        - generic [ref=e156]:
+          - generic [ref=e158]:
+            - generic [ref=e159]: 
+            - paragraph [ref=e160]: My Actions
+          - separator [ref=e161]
+          - generic [ref=e163]:
+            - img "No Content"
+            - paragraph [ref=e164]: No Pending Actions to Perform
+        - generic [ref=e166]:
+          - generic [ref=e168]:
+            - generic [ref=e169]: 
+            - paragraph [ref=e170]: Quick Launch
+          - separator [ref=e171]
+        - generic [ref=e175]:
+          - generic [ref=e177]:
+            - generic [ref=e178]: 
+            - paragraph [ref=e179]: Buzz Latest Posts
+          - separator [ref=e180]
+        - generic [ref=e184]:
+          - generic [ref=e185]:
+            - paragraph [ref=e190]: Employees on Leave Today
+            - generic [ref=e191] [cursor=pointer]: 
+          - separator [ref=e192]
+        - generic [ref=e196]:
+          - generic [ref=e198]:
+            - generic [ref=e199]: 
+            - paragraph [ref=e200]: Employee Distribution by Sub Unit
+          - separator [ref=e201]
+        - generic [ref=e205]:
+          - generic [ref=e207]:
+            - generic [ref=e208]: 
+            - paragraph [ref=e209]: Employee Distribution by Location
+          - separator [ref=e210]
+      - generic [ref=e213]:
+        - paragraph [ref=e214]: OrangeHRM OS 5.8
+        - paragraph [ref=e215]:
+          - text: © 2005 - 2026
+          - link "OrangeHRM, Inc" [ref=e216] [cursor=pointer]:
+            - /url: http://www.orangehrm.com
+          - text: . All rights reserved.

@@ -1,0 +1,25 @@
+{
+  "name": "psd-framework",
+  "version": "1.0.0",
+  "description": "Playwright + Cucumber Page Step Definitions Framework",
+  "scripts": {
+    "test": "cucumber-js",
+    "test:smoke": "cucumber-js --tags @smoke",
+    "test:login": "cucumber-js --tags @login",
+    "test:dashboard": "cucumber-js --tags @dashboard",
+    "test:admin": "cucumber-js --tags @admin",
+    "test:pim": "cucumber-js --tags @pim"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.97.1",
+    "@cucumber/cucumber": "^12.9.0",
+    "@faker-js/faker": "^10.4.0",
+    "@google/genai": "^2.4.0",
+    "@playwright/test": "^1.60.0",
+    "dotenv": "^17.4.2",
+    "ollama": "^0.6.3",
+    "openai": "^6.38.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
